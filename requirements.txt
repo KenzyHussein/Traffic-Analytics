@@ -1,0 +1,7 @@
+azure-eventhub
+pyodbc
+faker
+python-dotenv
+streamlit
+plotly
+pandas
