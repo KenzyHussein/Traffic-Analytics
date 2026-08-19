@@ -186,7 +186,7 @@ simulator is running.
 ## Troubleshooting
 
 | Problem | Fix |
-|---------|-----|
+
 | `Can't open lib 'ODBC Driver 18 for SQL Server'` | Install the ODBC driver, or set `ODBC_DRIVER` in `.env` to your installed version (e.g. 17). |
 | SQL `Cannot open server ... requested by the login` / timeout | Add your client IP to the Azure SQL Server firewall rules. |
 | Event Hub `Unauthorized` / authentication error | Check `EVENT_HUB_CONNECTION_STR` and `EVENT_HUB_NAME` in `.env`. |
