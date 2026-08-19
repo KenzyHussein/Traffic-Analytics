@@ -35,7 +35,7 @@ from config import (
 
 fake = Faker()
 
-# ---- Domain constants ----
+# ---- Domain constants --
 LOCATIONS = [
     {"name": "Ring Road Cairo",     "lat": 30.0444, "lon": 31.2357},
     {"name": "Corniche Alexandria", "lat": 31.2001, "lon": 29.9187},
