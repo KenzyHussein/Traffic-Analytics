@@ -1,6 +1,6 @@
 """
 load_warehouse.py  (PHASE 3)
-============================
+=========================
 Reads traffic_cleaned.csv and loads it into the star-schema warehouse.
 
 Load order (dimensions first so the facts can reference them):
