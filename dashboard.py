@@ -26,9 +26,9 @@ dim_location, dim_weather) built by warehouse_setup.py + load_warehouse.py.
 Run with:  streamlit run dashboard.py   (or: python -m streamlit run dashboard.py)
 """
 
-# ======================================================================
+# ===================================================================
 # SECTION 1 - IMPORTS & CONFIGURATION
-# ======================================================================
+# ===================================================================
 import os
 import time
 from datetime import datetime
