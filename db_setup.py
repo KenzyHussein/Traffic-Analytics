@@ -1,6 +1,6 @@
 """
 db_setup.py
------------
+---------
 Connects to the Azure SQL Database and creates the three tables used by the
 Real-Time Traffic Analytics project, if they do not already exist:
 
